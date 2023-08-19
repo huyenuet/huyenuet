@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @huyenuet
 - 👀 I’m interested in automated testing
-- 🌱 I’m currently learning Cypress
-- 💞️ I’m looking to collaborate on jest-preview
+- 🌱 I’m currently learning Cypress and Playwright
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/huyentran96/)
 
 <!---
